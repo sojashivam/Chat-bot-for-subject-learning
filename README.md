@@ -1,6 +1,7 @@
-# Coding Money Chatbot
+# Chat bot for subject learning
 
-A chatbot designed to assist students in learning various subjects by providing helpful resources, answering questions, and offering study tips.
+
+This chatbot designed to assist students in learning various subjects by providing helpful resources, answering questions, and offering study tips.
 
 ## Features
 
